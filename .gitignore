@@ -1,0 +1,4 @@
+challenges/**/*.md
+challenges/**/*.txt
+.env
+node_modules/
